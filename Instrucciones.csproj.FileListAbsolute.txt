@@ -1,0 +1,11 @@
+C:\Users\Ivanesa\source\repos\Instrucciones\Instrucciones\bin\Debug\netcoreapp3.1\Instrucciones.exe
+C:\Users\Ivanesa\source\repos\Instrucciones\Instrucciones\bin\Debug\netcoreapp3.1\Instrucciones.deps.json
+C:\Users\Ivanesa\source\repos\Instrucciones\Instrucciones\bin\Debug\netcoreapp3.1\Instrucciones.runtimeconfig.json
+C:\Users\Ivanesa\source\repos\Instrucciones\Instrucciones\bin\Debug\netcoreapp3.1\Instrucciones.runtimeconfig.dev.json
+C:\Users\Ivanesa\source\repos\Instrucciones\Instrucciones\bin\Debug\netcoreapp3.1\Instrucciones.dll
+C:\Users\Ivanesa\source\repos\Instrucciones\Instrucciones\bin\Debug\netcoreapp3.1\Instrucciones.pdb
+C:\Users\Ivanesa\source\repos\Instrucciones\Instrucciones\obj\Debug\netcoreapp3.1\Instrucciones.csprojAssemblyReference.cache
+C:\Users\Ivanesa\source\repos\Instrucciones\Instrucciones\obj\Debug\netcoreapp3.1\Instrucciones.AssemblyInfoInputs.cache
+C:\Users\Ivanesa\source\repos\Instrucciones\Instrucciones\obj\Debug\netcoreapp3.1\Instrucciones.AssemblyInfo.cs
+C:\Users\Ivanesa\source\repos\Instrucciones\Instrucciones\obj\Debug\netcoreapp3.1\Instrucciones.dll
+C:\Users\Ivanesa\source\repos\Instrucciones\Instrucciones\obj\Debug\netcoreapp3.1\Instrucciones.pdb
